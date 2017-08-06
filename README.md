@@ -1,2 +1,7 @@
 # hola-world
-just another reponsitory
+
+hola,everybody!
+
+WillJason here! I like Node.
+My idol is BIBIChou!
+
